@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/dashboard-la-cande/static/js/main.5a8b5227.js",
+    "main.js": "/dashboard-la-cande/static/js/main.4d96fc87.js",
     "index.html": "/dashboard-la-cande/index.html",
-    "main.5a8b5227.js.map": "/dashboard-la-cande/static/js/main.5a8b5227.js.map"
+    "main.4d96fc87.js.map": "/dashboard-la-cande/static/js/main.4d96fc87.js.map"
   },
   "entrypoints": [
-    "static/js/main.5a8b5227.js"
+    "static/js/main.4d96fc87.js"
   ]
 }
